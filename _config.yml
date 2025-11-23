@@ -1,0 +1,24 @@
+title: My Site Title
+description: A description of my website.
+# author: eric-tasso
+theme: minima          # You can choose from built-in themes like 'minima', 'jekyll-theme-cayman', etc.
+# baseurl: ""            # If publishing from a sub-directory (for project sites), set to "/repo-name"
+url: "https://eric-tasso.github.io"  # Your site URL
+
+# Optional settings
+# markdown: kramdown
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+
+# Navigation links (for some themes)
+github_username: eric-tasso
+
+# Exclude files and folders from the site build
+# exclude:
+#   - README.md
+#   - node_modules
+
+# Social media (theme-dependent)
+# twitter_username: eric_tasso
+# linkedin_username: your-linkedin-handle
